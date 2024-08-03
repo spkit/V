@@ -899,7 +899,7 @@ ul.search {
 
 ul.search li {
     padding: 5px 0 5px 20px;
-    background-image: url(http://spkit.github.io/assets/css/file.png);
+    background-image: url(file.png);
     background-repeat: no-repeat;
     background-position: 0 7px;
 }
@@ -1738,4 +1738,26 @@ ul#tab li div.contents p{
 /* For the examples */
 p.sphx-glr-horizontal {
     margin-top: 2em;
+}
+
+
+
+.version-selector {
+  color : rgb(17, 13, 13);
+  background-color: rgba(221, 168, 35, 0.694);
+  /* border: none; */
+  height: 30px;
+  /* width: 80px; */
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: gray;
+  font-size: 1.2em;
+  /* padding: 10px; */
+  cursor: pointer;
+}
+.version-selector:hover {
+  /* background-color: white; */
+  border-width: 2px;
+  /* color: rgb(10, 57, 96); */
+  background-color: rgba(221, 168, 35, 0.1);
 }
