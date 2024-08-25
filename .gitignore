@@ -1,0 +1,10 @@
+# Ignore
+.DS_Store
+*.log
+*.py
+*.sh
+*.ipynb
+*.ipynb_checkpoints
+*.jekyll-cache
+*_site
+*.buildinfo
