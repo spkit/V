@@ -9,3 +9,5 @@
 *_site
 *.buildinfo
 *.DS_Store
+**/*.DS_Store
+
